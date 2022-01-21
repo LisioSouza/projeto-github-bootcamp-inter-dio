@@ -2,7 +2,7 @@ Curso 05 - Curso básico de HTML5 e CSS3
 
 Página de uma Barbearia
 
-Resumo: No curso foram apresentados os principais tópicos de HTML5 e CSS3 para construção de páginas interativas, utilizando o IDE Visual Studio. No decorrer do curso foi criada um página para apresentação de uma barbearia utilizando-se de imagens, formulários e outras possibilidades que a linguagem de marcação proporciona.
+Resumo: No curso foram apresentados os principais tópicos de HTML5 e CSS3 para construção de páginas interativas utilizando o IDE Visual Studio. No decorrer do curso foi criada um página para apresentação de uma barbearia utilizando-se de imagens, formulários e outras possibilidades que a linguagem de marcação proporciona.
 
 Links:
 https://www.w3schools.com/html/
