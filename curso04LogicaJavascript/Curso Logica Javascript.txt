@@ -1,6 +1,6 @@
 Curso 04 - Lógica de programação com Javascript
 
-Jogos: Pong e Freeway
+Jogos: Pong e Freeway no p5js
 
 Resumo: No curso foram apresentados os principais tópicos da lógica de programação com Javascript. Foram criados dois jogos (Pong e Freeway) durante o curso. Utilizou-se a linguagem scratch para esboçar o jogo Pong que em seguinda foi convertido para a linguagem JavaScript através da plataforma p5js. O jogo Freeway foi criado diretamente na plataforma p5js.
 
