@@ -1,9 +1,0 @@
-Curso 01 - Git e Github
-
-Livro - receita
-
-Resumo: No curso foram apresentados os principais tópicos do sistema de controle de versão Git e da plataforma para gerenciamento de códigos Github. Ao final, foi criado um arquivo chamado livro-receitas para praticar o conteúdo apresentado no curso. 
-
-Links:
-https://git-scm.com/
-https://github.com/

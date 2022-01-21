@@ -1,0 +1,8 @@
+Curso 02 - Curso básico de HTML5, CSS3 e JavaScript
+
+Site do Google Glass
+
+Resumo: No curso foram apresentados os principais tópicos de HTML5, CSS3 e JavaScript para construção de páginas interativas e dinâmicas. No decorrer do curso foi criada um página para apresentação do produto Google Glass contendo imagens, vídeo, áudio, explorando as várias possibilidades de interação que as tecnologias utilizadas para sua construção proporcionam.
+
+Link:
+Documentação HTML - https://developer.mozilla.org/pt-BR/docs/Web/HTML

@@ -1,0 +1,8 @@
+Curso 03 - Git e Github desktop
+
+Projeto básico Git e Github
+
+Resumo: No curso foram apresentados os principais tópicos do sistema de controle de versão Git e o uso do Github para desktop. Ao final foi criado um arquivo básico em HTML para praticar o conteúdo apresentado no curso. 
+
+Link:
+https://desktop.github.com/
