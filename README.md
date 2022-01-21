@@ -1,2 +1,5 @@
-# projeto-github-bootcamp-inter-dio
-Primeiro Projeto do Bootcamp Inter da DIO
+# Desafio do Projeto Github do Bootcamp Inter da DIO
+ Repositório criado para o primeiro desafio de projeto.
+ 
+ Lista de cursos concluídos para iniciante em programação frontend com um breve resumo.
+ 
